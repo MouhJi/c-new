@@ -1,0 +1,10 @@
+D:\C#\project\BaiTapBackgroundWorker\bin\Debug\BaiTapBackgroundWorker.exe.config
+D:\C#\project\BaiTapBackgroundWorker\bin\Debug\BaiTapBackgroundWorker.exe
+D:\C#\project\BaiTapBackgroundWorker\bin\Debug\BaiTapBackgroundWorker.pdb
+D:\C#\project\BaiTapBackgroundWorker\obj\Debug\BaiTapBackgroundWorker.csproj.AssemblyReference.cache
+D:\C#\project\BaiTapBackgroundWorker\obj\Debug\BaiTapBackgroundWorker.Form1.resources
+D:\C#\project\BaiTapBackgroundWorker\obj\Debug\BaiTapBackgroundWorker.Properties.Resources.resources
+D:\C#\project\BaiTapBackgroundWorker\obj\Debug\BaiTapBackgroundWorker.csproj.GenerateResource.cache
+D:\C#\project\BaiTapBackgroundWorker\obj\Debug\BaiTapBackgroundWorker.csproj.CoreCompileInputs.cache
+D:\C#\project\BaiTapBackgroundWorker\obj\Debug\BaiTapBackgroundWorker.exe
+D:\C#\project\BaiTapBackgroundWorker\obj\Debug\BaiTapBackgroundWorker.pdb

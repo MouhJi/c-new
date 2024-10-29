@@ -1,0 +1,10 @@
+D:\C#\project\BackGroundWorker\bin\Debug\BackGroundWorker.exe.config
+D:\C#\project\BackGroundWorker\bin\Debug\BackGroundWorker.exe
+D:\C#\project\BackGroundWorker\bin\Debug\BackGroundWorker.pdb
+D:\C#\project\BackGroundWorker\obj\Debug\BackGroundWorker.csproj.AssemblyReference.cache
+D:\C#\project\BackGroundWorker\obj\Debug\BackGroundWorker.Form1.resources
+D:\C#\project\BackGroundWorker\obj\Debug\BackGroundWorker.Properties.Resources.resources
+D:\C#\project\BackGroundWorker\obj\Debug\BackGroundWorker.csproj.GenerateResource.cache
+D:\C#\project\BackGroundWorker\obj\Debug\BackGroundWorker.csproj.CoreCompileInputs.cache
+D:\C#\project\BackGroundWorker\obj\Debug\BackGroundWorker.exe
+D:\C#\project\BackGroundWorker\obj\Debug\BackGroundWorker.pdb
